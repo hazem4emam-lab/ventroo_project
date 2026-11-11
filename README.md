@@ -10,10 +10,10 @@
 |---|---|---|---|
 | Anas Ahmed Seheri | 13008336 | Lab 5 | aa5864393-ctrl |
 | Saif Ashraf | 13003677 | Lab 4 | saifmokamal-cloud |
-| Salma Moataz Eldesouky | 14003143 | Tutorial 4 | Salmamoatazbicc-prog |
-| Rawda Mohamed Elmetwally | 14003722 | Tutorial 4 | rawdaelmetwally |
+| Salma Moataz Eldesouky | 14003143 | Lab 4 | Salmamoatazbicc-prog |
+| Rawda Mohamed Elmetwally | 14003722 | Lab 4 | rawdaelmetwally |
 | Abdelrahman Mohamed Khaled | 14003240 | Lab 4 | boshy2005-pixel |
-| Hazem Adel | 13006278 | Tutorial 4 | hazem4emam-lab |
+| Hazem Adel | 13006278 | Lab 4 | hazem4emam-lab |
 
 ## 2. The idea
 
