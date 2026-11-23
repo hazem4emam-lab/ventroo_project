@@ -8,12 +8,12 @@
 
 | Name | Student ID | Tutorial group | GitHub username |
 |---|---|---|---|
-| Anas Ahmed Seheri | 13008336 | Lab 5 | aa5864393-ctrl |
+| Hazem Adel | 13006278 | Lab 4 | hazem4emam-lab |
 | Saif Ashraf | 13003677 | Lab 4 | saifmokamal-cloud |
 | Salma Moataz Eldesouky | 14003143 | Lab 4 | Salmamoatazbicc-prog |
 | Rawda Mohamed Elmetwally | 14003722 | Lab 4 | rawdaelmetwally |
 | Abdelrahman Mohamed Khaled | 14003240 | Lab 4 | boshy2005-pixel |
-| Hazem Adel | 13006278 | Lab 4 | hazem4emam-lab |
+| Anas Ahmed Seheri | 13008336 | Lab 5 | aa5864393-ctrl |
 
 ## 2. The idea
 
@@ -53,12 +53,12 @@ Ventro is a web-based skilled workers marketplace that connects customers with s
 
 | Member | Use case |
 |---|---|
-| Anas Ahmed Seheri | 1. Registration and login |
+| Hazem Adel | 1. Registration and login |
 | Saif Ashraf | 2. Professional profile management |
 | Salma Moataz Eldesouky | 3. Browse and save professionals |
 | Rawda Mohamed Elmetwally | 4. Create service request |
 | Abdelrahman Mohamed Khaled | 5. Manage service requests |
-| Hazem Adel | 6. Reviews and ratings |
+| Anas Ahmed Seheri | 6. Reviews and ratings |
 
 ## 5. Data model
 
